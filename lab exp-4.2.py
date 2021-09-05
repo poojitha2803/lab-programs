@@ -7,7 +7,7 @@ print out AaBbCcDdEe
 
 program:
 s1=input("Enter any string:")
-s2=input("Enyer another string:")
+s2=input("Enter another string:")
 if (len(s1)!=len(s2)):
     print("Length of two stings are not same")
 else:
@@ -16,5 +16,5 @@ else:
    
 Output:
 Enter any string:abcdef
-Enyer another string:ABCDEF
+Enter another string:ABCDEF
 aAbBcCdDeEfF    
